@@ -69,7 +69,25 @@ Filtered Text: ប្រាសាទ អង្គរវត្ត ស្ថិត
    python Khmer_stop_word_using_KhmerCUT.py
    python Khmer_stop_word_using_KhmerNLTK.py
     ```
-   **Join us in advancing Khmer language processing and contributing to the development of NLP tools for under-resourced languages!**
+2. **Installation**
+
+### Base
+
+Install the core package (no heavy deps):
+
+```bash
+pip install khmereasytools
+```
+### Keyword extraction
+
+```python
+import khmereasytools as ket
+
+keywords = ket.khfilter("នេះគឺជាប្រាសាទអង្គរវត្តដ៏ស្រស់ស្អាត")
+print(keywords)  # 'ប្រាសាទ អង្គរវត្ត ដ៏ ស្រស់ស្អាត'
+```
+
+**Join us in advancing Khmer language processing and contributing to the development of NLP tools for under-resourced languages!**
    
 Citation
   ```bash
