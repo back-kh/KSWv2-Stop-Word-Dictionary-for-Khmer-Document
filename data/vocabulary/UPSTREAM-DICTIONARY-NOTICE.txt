@@ -1,0 +1,12 @@
+The expanded Khmer lexicon is adapted from the ICU project's khmerdict.txt.
+
+Original file notices:
+Copyright (C) 2016 and later: Unicode, Inc. and others.
+License & terms of use: http://www.unicode.org/copyright.html
+Copyright (c) 2011-2015 International Business Machines Corporation
+and others. All Rights Reserved.
+
+This data is distributed under Unicode License V3; see UNICODE-LICENSE.txt.
+The project source code and the legacy 213-entry lexicon retain the MIT license.
+Source revision, checksums, and filtering are recorded in dictionary_manifest.json.
+No khPOS evaluation-corpus words or frequencies are included in this lexicon.

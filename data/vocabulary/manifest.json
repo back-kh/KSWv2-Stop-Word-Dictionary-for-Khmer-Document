@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "purpose": "General Khmer segmentation vocabulary, NOT a stopword dictionary",
+  "source_repository": "https://github.com/back-kh/khmereasytools",
+  "source_revision": "705d1825deb94f969f4aa303b63a67f7cfd7f9a4",
+  "components": [
+    {
+      "path": "khmereasytools/data/khmer_words.txt",
+      "sha256": "f398bea51287dc36d52d2482f0005ecff817733cedb84936fd8e5b72b73d9cf8",
+      "entries": 80999,
+      "license": "Unicode-3.0"
+    },
+    {
+      "path": "khmereasytools/data/legacy_words.txt",
+      "sha256": "cc725a68f45f5b76bc26660f9a3a1fdc640947c49d9866d6b555cc683f6cb733",
+      "entries": 213,
+      "license": "MIT"
+    }
+  ],
+  "icu_provenance": {
+    "source_repository": "https://github.com/unicode-org/icu",
+    "revision": "ad484f3d6c036ba06193ac7c3bc2233a53ab68b8",
+    "source_path": "icu4c/source/data/brkitr/dictionaries/khmerdict.txt",
+    "source_sha256": "87bee2d17cd5148aa36957eb05409eefc124de8ad519b81b789298ef3e60b5d9",
+    "source_entries": 81028,
+    "retained_entries": 80999,
+    "legacy_entries": 213,
+    "combined_entries": 81005,
+    "filter": "unique non-comment entries containing only Khmer-block letters/marks; no normalization",
+    "license": "Unicode-3.0",
+    "output_sha256": "f398bea51287dc36d52d2482f0005ecff817733cedb84936fd8e5b72b73d9cf8"
+  },
+  "merge_policy": "Set union of the two pinned components, no normalization; sort by Unicode code points; UTF-8 with LF and trailing newline",
+  "entries": 81005,
+  "output_file": "khmer-vocabulary-81005.txt",
+  "output_sha256": "4a72074afdd21e868d3ba23464eadee3fb3d3733f13b7200af3b7acd0a55bb5d",
+  "notice_sha256": {
+    "UNICODE-LICENSE.txt": "5cba0cc0b60a659761e6c6a1a581e6fa64148aa6a3b118e89bcfcdbcf9a6fb8a",
+    "UPSTREAM-DICTIONARY-NOTICE.txt": "26f59741d2f3db7237c45d35d05d90b68620b027e29fe03599731363b5e6f754",
+    "LEGACY-MIT-LICENSE.txt": "796a0acf43257f6467549d393f11f5332855835594481d503865bcf40eafc897"
+  },
+  "component_memberships_total": 81212,
+  "component_overlap_entries": 207,
+  "legacy_only_entries": [
+    "ក្តីសង្ឃឹម",
+    "ដោះគោ",
+    "ដំណើរកម្សាន្ត",
+    "មិត្តភ័ក្តិ",
+    "ស",
+    "ស្រស់ស្អាត"
+  ]
+}
