@@ -1,0 +1,9608 @@
+{
+  "កន្លែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 20
+    }
+  ],
+  "កន្លែងណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 21
+    }
+  ],
+  "កន្លែងណាមួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 22
+    }
+  ],
+  "កម្រិត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 6
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 17
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 23
+    }
+  ],
+  "កាត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 24
+    }
+  ],
+  "កាត់បន្ថយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 25
+    }
+  ],
+  "កាន់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 7
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 8
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 10
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 26
+    }
+  ],
+  "កាន់តែ": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 9
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 11
+    }
+  ],
+  "កាន់តែច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 27
+    }
+  ],
+  "ការ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 8
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 18
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 28
+    }
+  ],
+  "ការជ្រៀតជ្រែក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 34
+    }
+  ],
+  "ការបញ្ចប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 31
+    }
+  ],
+  "ការបើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 9
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 19
+    }
+  ],
+  "ការបើកចំហ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 29
+    }
+  ],
+  "ការផ្លាស់ប្ដូរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 10
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 20
+    }
+  ],
+  "ការផ្លាស់ប្តូរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 30
+    }
+  ],
+  "ការរៀបចំ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 11
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 21
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 32
+    }
+  ],
+  "ការសម្រេច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 33
+    }
+  ],
+  "កាល": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 10
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 12
+    }
+  ],
+  "កាលណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 12
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 13
+    }
+  ],
+  "កាលនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 13
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 13
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 16
+    }
+  ],
+  "កាលបើ": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 14
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 17
+    }
+  ],
+  "កាលពី": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 11
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 14
+    }
+  ],
+  "កាលពីមុន": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 12
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 15
+    }
+  ],
+  "កើត": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 4
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 4
+    }
+  ],
+  "កើតឡើង": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 5
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 5
+    }
+  ],
+  "កំពុង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 23
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 6
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 8
+    }
+  ],
+  "កំពុងតែ": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 7
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 9
+    }
+  ],
+  "កំពូល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 24
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 31
+    }
+  ],
+  "កំឡុងពេល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 25
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 32
+    }
+  ],
+  "ក៏": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 26
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 1
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1
+    }
+  ],
+  "ក៏ដោយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 27
+    },
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 291
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 33
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 297
+    }
+  ],
+  "ក៏ត្រូវ": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 2
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 2
+    }
+  ],
+  "ក៏បាន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 28
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 34
+    }
+  ],
+  "ក៏ប៉ុន្តែ": [
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 3
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 3
+    }
+  ],
+  "ក្តី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 14
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 22
+    }
+  ],
+  "ក្នុង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 15
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 23
+    }
+  ],
+  "ក្នុងនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 16
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 24
+    }
+  ],
+  "ក្បែរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 6
+    }
+  ],
+  "ក្បែរនេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 7
+    }
+  ],
+  "ក្រាស់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 17
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 25
+    }
+  ],
+  "ក្រោម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 18
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 26
+    }
+  ],
+  "ក្រោយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 19
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 27
+    }
+  ],
+  "ក្រោយមក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 20
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 28
+    }
+  ],
+  "ក្លាយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 21
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 29
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 18
+    }
+  ],
+  "ក្លាយជា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 22
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 30
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 19
+    }
+  ],
+  "ខណៈនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 2
+    }
+  ],
+  "ខាង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 3
+    },
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 29
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 35
+    }
+  ],
+  "ខាងក្នុង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 30
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 36
+    }
+  ],
+  "ខាងក្រោយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 31
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 37
+    }
+  ],
+  "ខាងក្រៅ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 32
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 38
+    }
+  ],
+  "ខាងមុខ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 33
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 39
+    }
+  ],
+  "ខាងលើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 34
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 40
+    }
+  ],
+  "ខុស": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 35
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 41
+    }
+  ],
+  "ខ្ងុំ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 36
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 42
+    }
+  ],
+  "ខ្លួន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 37
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 43
+    }
+  ],
+  "ខ្លួនឯង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 38
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 44
+    }
+  ],
+  "ខ្លះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 39
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 45
+    }
+  ],
+  "គាត់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 40
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 46
+    }
+  ],
+  "គាំទ្រ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 41
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 47
+    }
+  ],
+  "គឺ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 42
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 48
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 43
+    }
+  ],
+  "គឺជា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 43
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 49
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 44
+    }
+  ],
+  "គួរតែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 44
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 50
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 48
+    }
+  ],
+  "គួរសម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 45
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 51
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 49
+    }
+  ],
+  "គួរឱ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 50
+    }
+  ],
+  "គួរឲ្យកត់សម្គាល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 51
+    }
+  ],
+  "គេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 46
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 52
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 45
+    }
+  ],
+  "គេប៉ុណ្ណោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 46
+    }
+  ],
+  "គ្នា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 47
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 53
+    }
+  ],
+  "គ្មាន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 48
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 54
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 40
+    }
+  ],
+  "គ្មានកន្លែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 42
+    }
+  ],
+  "គ្មាននរណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 41
+    }
+  ],
+  "គ្មានមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 49
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 55
+    }
+  ],
+  "គ្រប់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 50
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 56
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 36
+    }
+  ],
+  "គ្រប់គ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 37
+    }
+  ],
+  "គ្រប់ពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 38
+    }
+  ],
+  "គ្រប់យ៉ាង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 39
+    }
+  ],
+  "គ្រប់សព្វ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 47
+    }
+  ],
+  "គ្រា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 51
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 57
+    }
+  ],
+  "គ្រាន់តែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 35
+    }
+  ],
+  "គ្រាមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 52
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 58
+    }
+  ],
+  "ឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 52
+    }
+  ],
+  "ឃើញតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 53
+    }
+  ],
+  "ឃើញយ៉ាងច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 56
+    }
+  ],
+  "ឃើញលើស": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 54
+    }
+  ],
+  "ឃើញហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 55
+    }
+  ],
+  "ចង់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 53
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 59
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 57
+    }
+  ],
+  "ចង្អុល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 65
+    }
+  ],
+  "ចន្លោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 54
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 60
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 76
+    }
+  ],
+  "ចាកពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 55
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 61
+    }
+  ],
+  "ចាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 60
+    }
+  ],
+  "ចាប់តាំងពី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 61
+    }
+  ],
+  "ចាំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 58
+    }
+  ],
+  "ចាំបាច់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 59
+    }
+  ],
+  "ចុង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 56
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 62
+    }
+  ],
+  "ចុងក្រោយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 57
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 63
+    }
+  ],
+  "ចុងបញ្ចប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 848
+    }
+  ],
+  "ចូល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 66
+    }
+  ],
+  "ចូលទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 67
+    }
+  ],
+  "ចូលមក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 68
+    }
+  ],
+  "ចូលរួម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 846
+    }
+  ],
+  "ចេញ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 58
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 64
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 69
+    }
+  ],
+  "ចេញពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 59
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 65
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 70
+    }
+  ],
+  "ចេញវិញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 71
+    }
+  ],
+  "ចៃដន្យ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 60
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 66
+    }
+  ],
+  "ចំណង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 843
+    }
+  ],
+  "ចំណាត់ថ្នាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 844
+    }
+  ],
+  "ចំណាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 842
+    }
+  ],
+  "ចំណែក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 63
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 69
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 64
+    }
+  ],
+  "ចំណែកឯ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 75
+    }
+  ],
+  "ចំណោម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 64
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 70
+    }
+  ],
+  "ចំនួន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 65
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 71
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 62
+    }
+  ],
+  "ចំនួនច្រើន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 66
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 72
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 63
+    }
+  ],
+  "ចំនួនបន្ថែម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 841
+    }
+  ],
+  "ចំពោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 67
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 73
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 839
+    }
+  ],
+  "ចំពោះបញ្ហា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 840
+    }
+  ],
+  "ចំលើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 845
+    }
+  ],
+  "ចំហៀង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 68
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 74
+    }
+  ],
+  "ច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 77
+    }
+  ],
+  "ច្បាស់ណាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 78
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 847
+    }
+  ],
+  "ច្បាស់លាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 79
+    }
+  ],
+  "ច្រើន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 61
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 67
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 72
+    }
+  ],
+  "ច្រើនជាងគេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 62
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 68
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 74
+    }
+  ],
+  "ច្រើនណាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 73
+    }
+  ],
+  "ឆាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 280
+    }
+  ],
+  "ឆាប់ជាង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 281
+    }
+  ],
+  "ឆ្ងាយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 69
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 75
+    }
+  ],
+  "ឆ្ងាយជាង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 70
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 76
+    }
+  ],
+  "ឆ្ពោះទៅ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 71
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 77
+    }
+  ],
+  "ឆ្លាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 285
+    }
+  ],
+  "ឆ្លាស់គ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 286
+    }
+  ],
+  "ឆ្លាស់ទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 287
+    }
+  ],
+  "ឆ្លាស់ប្តូរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 289
+    }
+  ],
+  "ឆ្លើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 283
+    }
+  ],
+  "ឆ្លើយឆ្លង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 291
+    }
+  ],
+  "ឆ្លើយតប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 284
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 764
+    }
+  ],
+  "ឆ្លើយតាម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 292
+    }
+  ],
+  "ឆ្លៀត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 765
+    }
+  ],
+  "ឆ្លៀតកន្លែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 290
+    }
+  ],
+  "ឆ្លៀតការបញ្ចប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 809
+    }
+  ],
+  "ឆ្លៀតការពារ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 791
+    }
+  ],
+  "ឆ្លៀតការពិគ្រោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 792
+    }
+  ],
+  "ឆ្លៀតកំណត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 802
+    }
+  ],
+  "ឆ្លៀតកំណត់ពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 823
+    }
+  ],
+  "ឆ្លៀតគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 804
+    }
+  ],
+  "ឆ្លៀតឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 773
+    }
+  ],
+  "ឆ្លៀតចង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 827
+    }
+  ],
+  "ឆ្លៀតចាប់ផ្តើម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 810
+    }
+  ],
+  "ឆ្លៀតចូលរួម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 779
+    }
+  ],
+  "ឆ្លៀតចេញចូល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 793
+    }
+  ],
+  "ឆ្លៀតចេញលើកទឹកចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 829
+    }
+  ],
+  "ឆ្លៀតចំណេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 774
+    }
+  ],
+  "ឆ្លៀតចំណែក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 831
+    }
+  ],
+  "ឆ្លៀតជាមិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 788
+    }
+  ],
+  "ឆ្លៀតជាមួយនឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 833
+    }
+  ],
+  "ឆ្លៀតជូន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 783
+    }
+  ],
+  "ឆ្លៀតជួប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 771
+    }
+  ],
+  "ឆ្លៀតដាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 822
+    }
+  ],
+  "ឆ្លៀតដោះស្រាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 832
+    }
+  ],
+  "ឆ្លៀតតែងតាំង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 805
+    }
+  ],
+  "ឆ្លៀតតែប៉ុណ្ណោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 818
+    }
+  ],
+  "ឆ្លៀតតំរង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 797
+    }
+  ],
+  "ឆ្លៀតត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 807
+    }
+  ],
+  "ឆ្លៀតទទួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 837
+    }
+  ],
+  "ឆ្លៀតទស្សនា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 825
+    }
+  ],
+  "ឆ្លៀតទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 770
+    }
+  ],
+  "ឆ្លៀតទំនេរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 828
+    }
+  ],
+  "ឆ្លៀតធ្វើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 785
+    }
+  ],
+  "ឆ្លៀតធ្វើឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 796
+    }
+  ],
+  "ឆ្លៀតនិយាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 768
+    }
+  ],
+  "ឆ្លៀតនឹក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 786
+    }
+  ],
+  "ឆ្លៀតនឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 826
+    }
+  ],
+  "ឆ្លៀតបង្កើត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 782
+    }
+  ],
+  "ឆ្លៀតបន្ថែម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 798
+    }
+  ],
+  "ឆ្លៀតបើក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 784
+    }
+  ],
+  "ឆ្លៀតបើកទ្វារ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 787
+    }
+  ],
+  "ឆ្លៀតបើកបង្ហាញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 816
+    }
+  ],
+  "ឆ្លៀតបើកសន្និសីទ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 824
+    }
+  ],
+  "ឆ្លៀតបំពេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 819
+    }
+  ],
+  "ឆ្លៀតប្រាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 812
+    }
+  ],
+  "ឆ្លៀតផ្តល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 836
+    }
+  ],
+  "ឆ្លៀតពណ៌": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 835
+    }
+  ],
+  "ឆ្លៀតពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 282
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 767
+    }
+  ],
+  "ឆ្លៀតពេលវេលា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 776
+    }
+  ],
+  "ឆ្លៀតព្យាបាល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 800
+    }
+  ],
+  "ឆ្លៀតមក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 769
+    }
+  ],
+  "ឆ្លៀតមកទស្សនា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 780
+    }
+  ],
+  "ឆ្លៀតមិនបាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 778
+    }
+  ],
+  "ឆ្លៀតយក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 288
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 766
+    }
+  ],
+  "ឆ្លៀតយកចំណាប់អារម្មណ៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 820
+    }
+  ],
+  "ឆ្លៀតរក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 821
+    }
+  ],
+  "ឆ្លៀតលេង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 803
+    }
+  ],
+  "ឆ្លៀតលែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 789
+    }
+  ],
+  "ឆ្លៀតវេលា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 775
+    }
+  ],
+  "ឆ្លៀតសង្ឃឹម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 801
+    }
+  ],
+  "ឆ្លៀតសន្ទក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 811
+    }
+  ],
+  "ឆ្លៀតសន្ទនា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 795
+    }
+  ],
+  "ឆ្លៀតសម័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 808
+    }
+  ],
+  "ឆ្លៀតសម្ភាសន៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 790
+    }
+  ],
+  "ឆ្លៀតសម្រាក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 293
+    }
+  ],
+  "ឆ្លៀតសម្លៀកបំពាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 777
+    }
+  ],
+  "ឆ្លៀតសិក្សា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 814
+    }
+  ],
+  "ឆ្លៀតសិក្សាស្រាវជ្រាវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 830
+    }
+  ],
+  "ឆ្លៀតសួរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 772
+    }
+  ],
+  "ឆ្លៀតសួរគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 813
+    }
+  ],
+  "ឆ្លៀតសេវាកម្ម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 834
+    }
+  ],
+  "ឆ្លៀតសំរាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 815
+    }
+  ],
+  "ឆ្លៀតស្ទង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 817
+    }
+  ],
+  "ឆ្លៀតស្រាវជ្រាវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 799
+    }
+  ],
+  "ឆ្លៀតអាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 781
+    }
+  ],
+  "ឆ្លៀតអោយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 838
+    }
+  ],
+  "ឆ្លៀតអ្វីដែល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 794
+    }
+  ],
+  "ឆ្លៀតឲ្យកើត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 806
+    }
+  ],
+  "ជាង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 303
+    }
+  ],
+  "ជាច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 295
+    }
+  ],
+  "ជាដរាប": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 72
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 78
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 296
+    }
+  ],
+  "ជាថ្មី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 298
+    }
+  ],
+  "ជាធម្មតា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 302
+    }
+  ],
+  "ជានិច្ច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 297
+    }
+  ],
+  "ជានិច្ចកាល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 73
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 79
+    }
+  ],
+  "ជាប់នឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 294
+    }
+  ],
+  "ជាមុន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 74
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 80
+    }
+  ],
+  "ជាមួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 299
+    }
+  ],
+  "ជាមួយគ្នា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 75
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 81
+    }
+  ],
+  "ជាមួយនឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 300
+    }
+  ],
+  "ជាសមរម្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 301
+    }
+  ],
+  "ជាស្រេច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 76
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 82
+    }
+  ],
+  "ជិត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 77
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 83
+    }
+  ],
+  "ជុំវិញ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 78
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 84
+    }
+  ],
+  "ជូន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 305
+    }
+  ],
+  "ជួនកាល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 79
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 85
+    }
+  ],
+  "ជួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 80
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 86
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 306
+    }
+  ],
+  "ជើង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 304
+    }
+  ],
+  "ជំរាប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 307
+    }
+  ],
+  "ជំរាបសួរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 308
+    }
+  ],
+  "ជំរាល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 81
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 87
+    }
+  ],
+  "ឈប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 311
+    }
+  ],
+  "ឈប់និយាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 312
+    }
+  ],
+  "ឈម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 82
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 88
+    }
+  ],
+  "ឈានដល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 309
+    }
+  ],
+  "ឈានទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 310
+    }
+  ],
+  "ឈ្ងុយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 313
+    }
+  ],
+  "ញឹក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 83
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 89
+    }
+  ],
+  "ញឹកញាប់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 84
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 90
+    }
+  ],
+  "ញែក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 85
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 91
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 314
+    }
+  ],
+  "ដក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 315
+    }
+  ],
+  "ដកចេញ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 86
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 92
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 316
+    }
+  ],
+  "ដង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 87
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 93
+    }
+  ],
+  "ដដែល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 88
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 94
+    }
+  ],
+  "ដល់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 89
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 95
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 80
+    }
+  ],
+  "ដល់កន្លែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 83
+    }
+  ],
+  "ដល់ពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 82
+    }
+  ],
+  "ដល់ម្ល៉េះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 90
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 96
+    }
+  ],
+  "ដល់ហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 81
+    }
+  ],
+  "ដាក់បញ្ជី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 856
+    }
+  ],
+  "ដាំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 317
+    }
+  ],
+  "ដឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 332
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 855
+    }
+  ],
+  "ដឹងច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 335
+    }
+  ],
+  "ដឹងត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 338
+    }
+  ],
+  "ដឹងថា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 337
+    }
+  ],
+  "ដឹងទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 333
+    }
+  ],
+  "ដឹងពី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 336
+    }
+  ],
+  "ដឹងហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 334
+    }
+  ],
+  "ដឹងហើយឯង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 339
+    }
+  ],
+  "ដូច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 84
+    }
+  ],
+  "ដូចគ្នា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 91
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 97
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 85
+    }
+  ],
+  "ដូចគ្នាទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 327
+    }
+  ],
+  "ដូចជា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 92
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 98
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 86
+    }
+  ],
+  "ដូចដែល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 87
+    }
+  ],
+  "ដូចតាម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 326
+    }
+  ],
+  "ដូចត្នោត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 324
+    }
+  ],
+  "ដូចទៀង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 330
+    }
+  ],
+  "ដូចទ្រង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 331
+    }
+  ],
+  "ដូចនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 93
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 99
+    }
+  ],
+  "ដូចនេះហើយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 94
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 100
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 89
+    }
+  ],
+  "ដូចនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 95
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 101
+    }
+  ],
+  "ដូចបែបនេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 88
+    }
+  ],
+  "ដូចមុន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 328
+    }
+  ],
+  "ដូចម្ដេច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 96
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 102
+    }
+  ],
+  "ដូចម្នាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 329
+    }
+  ],
+  "ដូចរបៀប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 325
+    }
+  ],
+  "ដូច្នេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 97
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 103
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 90
+    }
+  ],
+  "ដូច្នេះហើយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 98
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 104
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 91
+    }
+  ],
+  "ដូច្នោះទេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 99
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 105
+    }
+  ],
+  "ដើម្បី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 100
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 106
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 92
+    }
+  ],
+  "ដើម្បីឆ្លើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 340
+    }
+  ],
+  "ដើម្បីនឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 101
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 107
+    }
+  ],
+  "ដើម្បីឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 93
+    }
+  ],
+  "ដើរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 319
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 849
+    }
+  ],
+  "ដើរចូល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 322
+    }
+  ],
+  "ដើរតួ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 850
+    }
+  ],
+  "ដើរទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 320
+    }
+  ],
+  "ដើរយ៉ាង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 321
+    }
+  ],
+  "ដើរឡើង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 323
+    }
+  ],
+  "ដែរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 102
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 108
+    }
+  ],
+  "ដែរគ្រប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 95
+    }
+  ],
+  "ដែល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 103
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 109
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 96
+    }
+  ],
+  "ដែលក្រោយបំផុត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 104
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 110
+    }
+  ],
+  "ដែលក្លាយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 105
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 111
+    }
+  ],
+  "ដែលជា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 106
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 112
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 97
+    }
+  ],
+  "ដែលជួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 107
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 113
+    }
+  ],
+  "ដែលនឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 108
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 114
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 98
+    }
+  ],
+  "ដែលអាច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 109
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 115
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 99
+    }
+  ],
+  "ដោយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 110
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 116
+    }
+  ],
+  "ដោយខ្លួនឯង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 111
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 117
+    }
+  ],
+  "ដោយទីពីរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 112
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 118
+    }
+  ],
+  "ដោយភាគច្រើន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 113
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 119
+    }
+  ],
+  "ដោយមិនដឹងជាយ៉ាងម៉េច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 114
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 120
+    }
+  ],
+  "ដោយមិនដឹងជារឿងអ្វី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 115
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 121
+    }
+  ],
+  "ដោយមិនដឹងម៉េចទេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 116
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 122
+    }
+  ],
+  "ដោយសារតែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 117
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 123
+    }
+  ],
+  "ដោយហេតុថា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 118
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 124
+    }
+  ],
+  "ដោយហេតុនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 119
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 125
+    }
+  ],
+  "ដោះស្រាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 857
+    }
+  ],
+  "ដំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 318
+    }
+  ],
+  "ដំណាក់កាល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 854
+    }
+  ],
+  "ដំណឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 858
+    }
+  ],
+  "ដំណើរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 851
+    }
+  ],
+  "ដំណើរការ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 853
+    }
+  ],
+  "ដំណោះស្រាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 852
+    }
+  ],
+  "ដំបូង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 120
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 126
+    }
+  ],
+  "ដ៏": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 94
+    }
+  ],
+  "ដ៏ទៃ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 121
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 127
+    }
+  ],
+  "ណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 122
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 128
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 341
+    }
+  ],
+  "ណាទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 343
+    }
+  ],
+  "ណាមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 123
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 129
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 342
+    }
+  ],
+  "ណាស់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 124
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 130
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 344
+    }
+  ],
+  "ណាស់ណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 345
+    }
+  ],
+  "តម្លៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 346
+    }
+  ],
+  "តាម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 125
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 131
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 104
+    }
+  ],
+  "តាមចន្លោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 126
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 132
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 107
+    }
+  ],
+  "តាមដាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 105
+    }
+  ],
+  "តាមទំលាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 106
+    }
+  ],
+  "តាមរយៈ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 108
+    }
+  ],
+  "តាំង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 127
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 133
+    }
+  ],
+  "តាំងពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 128
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 134
+    }
+  ],
+  "តាំងពីនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 129
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 135
+    }
+  ],
+  "តើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 130
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 136
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 101
+    }
+  ],
+  "តើត្រូវធ្វើអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 350
+    }
+  ],
+  "តើធ្វើម្តេច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 349
+    }
+  ],
+  "តើនរណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 351
+    }
+  ],
+  "តើបែបណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 352
+    }
+  ],
+  "តើបែបនេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 353
+    }
+  ],
+  "តើហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 354
+    }
+  ],
+  "តើហេតុអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 102
+    }
+  ],
+  "តើអាចយ៉ាងណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 348
+    }
+  ],
+  "តើអ្នកណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 347
+    }
+  ],
+  "តើអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 103
+    }
+  ],
+  "តែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 131
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 137
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 100
+    }
+  ],
+  "តែមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 132
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 138
+    }
+  ],
+  "តោងតែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 133
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 139
+    }
+  ],
+  "ត្រង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 116
+    }
+  ],
+  "ត្រង់គ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 357
+    }
+  ],
+  "ត្រង់តែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 358
+    }
+  ],
+  "ត្រង់នេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 117
+    }
+  ],
+  "ត្រង់នោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 118
+    }
+  ],
+  "ត្រង់នោះហើយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 134
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 140
+    }
+  ],
+  "ត្រង់ពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 359
+    }
+  ],
+  "ត្រលប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 355
+    }
+  ],
+  "ត្រលប់វិញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 356
+    }
+  ],
+  "ត្រលះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 360
+    }
+  ],
+  "ត្រឹម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 135
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 141
+    }
+  ],
+  "ត្រឹមតែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 136
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 142
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 114
+    }
+  ],
+  "ត្រឹមនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 115
+    }
+  ],
+  "ត្រូវ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 137
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 143
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 109
+    }
+  ],
+  "ត្រូវគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 113
+    }
+  ],
+  "ត្រូវជាមួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 112
+    }
+  ],
+  "ត្រូវតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 110
+    }
+  ],
+  "ត្រូវបាន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 138
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 144
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 111
+    }
+  ],
+  "ត្រៀម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 361
+    }
+  ],
+  "ត្រៀមខ្លួន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 363
+    }
+  ],
+  "ត្រៀមចេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 362
+    }
+  ],
+  "ថា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 139
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 145
+    }
+  ],
+  "ថែមទៀត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 140
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 146
+    }
+  ],
+  "ថ្មី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 141
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 147
+    }
+  ],
+  "ថ្វីបើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 142
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 148
+    }
+  ],
+  "ទទឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 143
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 149
+    }
+  ],
+  "ទទួល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 144
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 150
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 120
+    }
+  ],
+  "ទទួលខុសត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 364
+    }
+  ],
+  "ទទួលពេញចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 367
+    }
+  ],
+  "ទទួលយក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 121
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 859
+    }
+  ],
+  "ទទេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 145
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 151
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 119
+    }
+  ],
+  "ទល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 871
+    }
+  ],
+  "ទល់នឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 146
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 152
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 872
+    }
+  ],
+  "ទស្សនា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 378
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 868
+    }
+  ],
+  "ទាក់ទង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 869
+    }
+  ],
+  "ទាន់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 147
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 153
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 371
+    }
+  ],
+  "ទាន់បើមិន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 374
+    }
+  ],
+  "ទាន់ពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 372
+    }
+  ],
+  "ទាន់ពេលវេលា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 373
+    }
+  ],
+  "ទាប": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 148
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 154
+    }
+  ],
+  "ទាល់តែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 149
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 155
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 128
+    }
+  ],
+  "ទាស់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 150
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 156
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 375
+    }
+  ],
+  "ទាស់ដាច់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 377
+    }
+  ],
+  "ទាស់នឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 376
+    }
+  ],
+  "ទាំង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 151
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 157
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 122
+    }
+  ],
+  "ទាំងនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 152
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 158
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 124
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 866
+    }
+  ],
+  "ទាំងនេះហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 368
+    }
+  ],
+  "ទាំងបី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 365
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 876
+    }
+  ],
+  "ទាំងពីរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 153
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 159
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 125
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 864
+    }
+  ],
+  "ទាំងមូល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 154
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 160
+    }
+  ],
+  "ទាំងឡាយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 155
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 161
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 126
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 877
+    }
+  ],
+  "ទាំងអស់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 156
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 162
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 123
+    }
+  ],
+  "ទាំងអស់គ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 366
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 865
+    }
+  ],
+  "ទិន្នន័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 867
+    }
+  ],
+  "ទី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 157
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 163
+    }
+  ],
+  "ទីកន្លែង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 158
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 164
+    }
+  ],
+  "ទីណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 159
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 165
+    }
+  ],
+  "ទីនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 160
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 166
+    }
+  ],
+  "ទីនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 161
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 167
+    }
+  ],
+  "ទីពីរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 162
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 168
+    }
+  ],
+  "ទុក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 163
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 169
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 379
+    }
+  ],
+  "ទុកចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 380
+    }
+  ],
+  "ទុកដាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 381
+    }
+  ],
+  "ទុកបាន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 164
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 170
+    }
+  ],
+  "ទុកសម្រាក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 382
+    }
+  ],
+  "ទូទាំង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 165
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 171
+    }
+  ],
+  "ទូទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 127
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 875
+    }
+  ],
+  "ទូទៅដែរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 369
+    }
+  ],
+  "ទូទៅប៉ុន្មាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 370
+    }
+  ],
+  "ទៀត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 166
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 172
+    }
+  ],
+  "ទេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 167
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 173
+    }
+  ],
+  "ទោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 129
+    }
+  ],
+  "ទោះបី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 168
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 174
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 130
+    }
+  ],
+  "ទោះបីជា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 169
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 175
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 131
+    }
+  ],
+  "ទោះបីយ៉ាងណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 132
+    }
+  ],
+  "ទៅ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 170
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 176
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 133
+    }
+  ],
+  "ទៅកាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 134
+    }
+  ],
+  "ទៅជាមួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 135
+    }
+  ],
+  "ទៅជាយ៉ាងណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 385
+    }
+  ],
+  "ទៅជាអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 383
+    }
+  ],
+  "ទៅដល់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 171
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 177
+    }
+  ],
+  "ទៅដល់ទីនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 388
+    }
+  ],
+  "ទៅណាក៏ដោយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 384
+    }
+  ],
+  "ទៅទស្សនា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 391
+    }
+  ],
+  "ទៅបើក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 387
+    }
+  ],
+  "ទៅផុត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 172
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 178
+    }
+  ],
+  "ទៅមក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 874
+    }
+  ],
+  "ទៅមើល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 386
+    }
+  ],
+  "ទៅលើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 173
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 179
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 136
+    }
+  ],
+  "ទៅលើសទៀត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 390
+    }
+  ],
+  "ទៅលេង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 389
+    }
+  ],
+  "ទៅវិញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 137
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 873
+    }
+  ],
+  "ទៅហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 138
+    }
+  ],
+  "ទំនង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 174
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 180
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 860
+    }
+  ],
+  "ទំនាក់ទំនង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 863
+    }
+  ],
+  "ទំនួលខុសត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 862
+    }
+  ],
+  "ទំនេរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 861
+    }
+  ],
+  "ទំនេរជាប្រការ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 870
+    }
+  ],
+  "ធម្មតា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 175
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 181
+    }
+  ],
+  "ធ្លាក់ចុងក្រោយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 896
+    }
+  ],
+  "ធ្លាក់ចុះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 176
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 182
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 893
+    }
+  ],
+  "ធ្លាក់ច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 895
+    }
+  ],
+  "ធ្លាក់ត្រឹមតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 897
+    }
+  ],
+  "ធ្លាក់ទាំងស្រុង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 894
+    }
+  ],
+  "ធ្លាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 888
+    }
+  ],
+  "ធ្លាប់ឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 892
+    }
+  ],
+  "ធ្លាប់ជាមុន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 889
+    }
+  ],
+  "ធ្លាប់តែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 890
+    }
+  ],
+  "ធ្លាប់និយាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 891
+    }
+  ],
+  "ធ្វើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 177
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 183
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 878
+    }
+  ],
+  "ធ្វើការងារ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 879
+    }
+  ],
+  "ធ្វើដូចជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 885
+    }
+  ],
+  "ធ្វើដំណើរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 880
+    }
+  ],
+  "ធ្វើតាម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 883
+    }
+  ],
+  "ធ្វើតេស្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 881
+    }
+  ],
+  "ធ្វើបច្ចុប្បន្នភាព": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 882
+    }
+  ],
+  "ធ្វើបាន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 178
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 184
+    }
+  ],
+  "ធ្វើអោយបានចំរើន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 179
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 185
+    }
+  ],
+  "ធ្វើឱ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 884
+    }
+  ],
+  "ធ្វើឲ្យទាន់ពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 887
+    }
+  ],
+  "ធ្វើឲ្យល្អ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 886
+    }
+  ],
+  "នរណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 180
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 186
+    }
+  ],
+  "នាង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 181
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 187
+    }
+  ],
+  "នាយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 182
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 188
+    }
+  ],
+  "និង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 183
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 189
+    }
+  ],
+  "និមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 184
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 190
+    }
+  ],
+  "និយម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 185
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 191
+    }
+  ],
+  "នីមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 186
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 192
+    }
+  ],
+  "នឹក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 898
+    }
+  ],
+  "នឹកឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 904
+    }
+  ],
+  "នឹកចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 900
+    }
+  ],
+  "នឹកមិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 902
+    }
+  ],
+  "នឹកមើល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 903
+    }
+  ],
+  "នឹកស្មាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 899
+    }
+  ],
+  "នឹកស្រឡាញ់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 901
+    }
+  ],
+  "នឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 187
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 193
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 392
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 905
+    }
+  ],
+  "នឹងកើតឡើង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 908
+    }
+  ],
+  "នឹងកំណត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 910
+    }
+  ],
+  "នឹងចាប់ផ្តើម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 911
+    }
+  ],
+  "នឹងតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 393
+    }
+  ],
+  "នឹងត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 906
+    }
+  ],
+  "នឹងបន្ដិច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 394
+    }
+  ],
+  "នឹងបន្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 909
+    }
+  ],
+  "នឹងមាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 907
+    }
+  ],
+  "នឹងអាចធ្វើបាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 395
+    }
+  ],
+  "នូវ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 188
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 194
+    }
+  ],
+  "នេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 189
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 195
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 140
+    }
+  ],
+  "នេះក៏បាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 397
+    }
+  ],
+  "នេះក៏អាច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 398
+    }
+  ],
+  "នេះជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 142
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 400
+    }
+  ],
+  "នេះតែប៉ុណ្ណោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 396
+    }
+  ],
+  "នេះត្រូវជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 399
+    }
+  ],
+  "នេះទៅទៀត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 190
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 196
+    }
+  ],
+  "នេះហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 141
+    }
+  ],
+  "នៃ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 191
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 197
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 139
+    }
+  ],
+  "នោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 192
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 198
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 143
+    }
+  ],
+  "នោះក៏បាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 402
+    }
+  ],
+  "នោះជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 403
+    }
+  ],
+  "នោះទេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 193
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 199
+    }
+  ],
+  "នោះមក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 194
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 200
+    }
+  ],
+  "នោះហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 144
+    }
+  ],
+  "នោះហើយបើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 401
+    }
+  ],
+  "នោះឯង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 195
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 201
+    }
+  ],
+  "នៅ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 196
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 202
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 145
+    }
+  ],
+  "នៅកន្លែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 146
+    }
+  ],
+  "នៅក្នុង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 197
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 203
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 148
+    }
+  ],
+  "នៅក្នុងសភាព": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 409
+    }
+  ],
+  "នៅគ្រា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 198
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 204
+    }
+  ],
+  "នៅចំពោះមុខ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 414
+    }
+  ],
+  "នៅជាកន្លែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 405
+    }
+  ],
+  "នៅជិត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 154
+    }
+  ],
+  "នៅជិតតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 407
+    }
+  ],
+  "នៅជិតៗ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 199
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 205
+    }
+  ],
+  "នៅតាម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 410
+    }
+  ],
+  "នៅតាមកន្លែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 413
+    }
+  ],
+  "នៅតែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 200
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 206
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 147
+    }
+  ],
+  "នៅទី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 201
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 207
+    }
+  ],
+  "នៅទីនេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 149
+    }
+  ],
+  "នៅទីនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 150
+    }
+  ],
+  "នៅពេល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 202
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 208
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 151
+    }
+  ],
+  "នៅពេលដែល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 152
+    }
+  ],
+  "នៅពេលនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 153
+    }
+  ],
+  "នៅមក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 404
+    }
+  ],
+  "នៅមកវិញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 406
+    }
+  ],
+  "នៅមុខ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 203
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 209
+    }
+  ],
+  "នៅមុខគេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 408
+    }
+  ],
+  "នៅម្ដុំនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 204
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 210
+    }
+  ],
+  "នៅលើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 205
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 211
+    }
+  ],
+  "នៅសល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 155
+    }
+  ],
+  "នៅសល់តែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 411
+    }
+  ],
+  "នៅឡើយទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 412
+    }
+  ],
+  "ន័យនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 206
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 212
+    }
+  ],
+  "បង្វែរឆ្ពោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 923
+    }
+  ],
+  "បង្អស់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 207
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 213
+    }
+  ],
+  "បញ្ចប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 912
+    }
+  ],
+  "បញ្ចប់ហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 913
+    }
+  ],
+  "បញ្ចូល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 429
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 917
+    }
+  ],
+  "បញ្ចេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 914
+    }
+  ],
+  "បញ្ចេញតម្លៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 915
+    }
+  ],
+  "បញ្ចេញមតិ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 916
+    }
+  ],
+  "បញ្ជាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 428
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 918
+    }
+  ],
+  "បញ្ជាក់ថា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 919
+    }
+  ],
+  "បញ្ជូន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 434
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 920
+    }
+  ],
+  "បន្ដិច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 208
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 214
+    }
+  ],
+  "បន្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 927
+    }
+  ],
+  "បន្តទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 928
+    }
+  ],
+  "បន្តិច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 929
+    }
+  ],
+  "បន្ថយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 922
+    }
+  ],
+  "បន្ថែម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 1
+    },
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 209
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 215
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 430
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 921
+    }
+  ],
+  "បន្ទាប់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 210
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 216
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 431
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 930
+    }
+  ],
+  "បន្ទាប់ពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 211
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 217
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 432
+    }
+  ],
+  "បន្ទាប់ពីនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 212
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 218
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 931
+    }
+  ],
+  "បន្ទាប់មក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 433
+    }
+  ],
+  "បានជា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 216
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 222
+    }
+  ],
+  "បានដែរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 217
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 223
+    }
+  ],
+  "បី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 218
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 224
+    }
+  ],
+  "បីនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 219
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 225
+    }
+  ],
+  "បួន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 220
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 226
+    }
+  ],
+  "បើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 221
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 227
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 156
+    }
+  ],
+  "បើក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 415
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 932
+    }
+  ],
+  "បើកការពិភាក្សា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 934
+    }
+  ],
+  "បើកចំហ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 435
+    }
+  ],
+  "បើកឆ្លងកាត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 416
+    }
+  ],
+  "បើកដំណើរការ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 417
+    }
+  ],
+  "បើកទ្វារ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 418
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 933
+    }
+  ],
+  "បើកបើក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 419
+    }
+  ],
+  "បើកសន្និសីទ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 935
+    }
+  ],
+  "បើគ្មាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 421
+    }
+  ],
+  "បើតម្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 420
+    }
+  ],
+  "បើតែប៉ុណ្ណោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 437
+    }
+  ],
+  "បើត្រូវជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 436
+    }
+  ],
+  "បើនរណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 422
+    }
+  ],
+  "បើមាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 160
+    }
+  ],
+  "បើមិន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 158
+    }
+  ],
+  "បើមិនមែន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 222
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 228
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 159
+    }
+  ],
+  "បើសិនជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 157
+    }
+  ],
+  "បើហ៊ាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 423
+    }
+  ],
+  "បែបនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 223
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 229
+    }
+  ],
+  "បំផុត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 230
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 236
+    }
+  ],
+  "បំពេញ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 231
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 237
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 924
+    }
+  ],
+  "បំពេញការងារ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 925
+    }
+  ],
+  "បំពេញតម្រូវការ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 926
+    }
+  ],
+  "ប៉ុណ្ណឹងហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 425
+    }
+  ],
+  "ប៉ុណ្ណោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 424
+    }
+  ],
+  "ប៉ុនគ្នា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 213
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 219
+    }
+  ],
+  "ប៉ុន្ដែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 214
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 220
+    }
+  ],
+  "ប៉ុន្តែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 161
+    }
+  ],
+  "ប៉ុន្នឹងក៏បាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 427
+    }
+  ],
+  "ប៉ុន្មាន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 215
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 221
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 162
+    }
+  ],
+  "ប៉ុន្មានដង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 163
+    }
+  ],
+  "ប៉ុន្មានពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 164
+    }
+  ],
+  "ប៉ុន្មានពេលនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 426
+    }
+  ],
+  "ប្រកប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 440
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 941
+    }
+  ],
+  "ប្រកបដោយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 441
+    }
+  ],
+  "ប្រកបដោយភាព": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 442
+    }
+  ],
+  "ប្រកាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 439
+    }
+  ],
+  "ប្រកាស": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 438
+    }
+  ],
+  "ប្រគល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 443
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 943
+    }
+  ],
+  "ប្រគល់ទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 444
+    }
+  ],
+  "ប្រគល់ឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 445
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 944
+    }
+  ],
+  "ប្រឈម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 224
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 230
+    }
+  ],
+  "ប្រតិបត្តិ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 940
+    }
+  ],
+  "ប្រមាណ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 225
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 231
+    }
+  ],
+  "ប្រហែល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 226
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 232
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 446
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 942
+    }
+  ],
+  "ប្រហែលជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 449
+    }
+  ],
+  "ប្រហែលជាត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 448
+    }
+  ],
+  "ប្រហែលជាមិន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 447
+    }
+  ],
+  "ប្រហែលតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 450
+    }
+  ],
+  "ប្រាកដ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 451
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 936
+    }
+  ],
+  "ប្រាកដជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 454
+    }
+  ],
+  "ប្រាកដជាទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 469
+    }
+  ],
+  "ប្រាកដណាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 937
+    }
+  ],
+  "ប្រាកដថា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 453
+    }
+  ],
+  "ប្រាកដមែន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 938
+    }
+  ],
+  "ប្រាកដហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 452
+    }
+  ],
+  "ប្រាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 455
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 939
+    }
+  ],
+  "ប្រាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 464
+    }
+  ],
+  "ប្រាប់ខ្លួនឯង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 468
+    }
+  ],
+  "ប្រាប់ថា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 465
+    }
+  ],
+  "ប្រាប់ទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 467
+    }
+  ],
+  "ប្រាប់ឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 466
+    }
+  ],
+  "ប្រាំ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 4
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 15
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 456
+    }
+  ],
+  "ប្រាំបី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 227
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 233
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 458
+    }
+  ],
+  "ប្រាំបួន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 228
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 234
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 459
+    }
+  ],
+  "ប្រាំពីរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 457
+    }
+  ],
+  "ប្រាំមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 229
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 235
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 460
+    }
+  ],
+  "ប្រើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 945
+    }
+  ],
+  "ប្រើប្រាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 946
+    }
+  ],
+  "ប្រែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 461
+    }
+  ],
+  "ប្រែជាអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 462
+    }
+  ],
+  "ប្រែទៅជាអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 463
+    }
+  ],
+  "ផង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 232
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 238
+    }
+  ],
+  "ផុត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 233
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 239
+    }
+  ],
+  "ផ្គត់ផ្គង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 488
+    }
+  ],
+  "ផ្គាប់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 234
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 240
+    }
+  ],
+  "ផ្គុំពាក្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 489
+    }
+  ],
+  "ផ្ដល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 643
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 947
+    }
+  ],
+  "ផ្ដល់ការគាំទ្រ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 950
+    }
+  ],
+  "ផ្ដល់ចម្លើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 953
+    }
+  ],
+  "ផ្ដល់ជម្រើស": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 647
+    }
+  ],
+  "ផ្ដល់ជំនួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 954
+    }
+  ],
+  "ផ្ដល់តម្លៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 952
+    }
+  ],
+  "ផ្ដល់តម្លៃដល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 646
+    }
+  ],
+  "ផ្ដល់នូវ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 235
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 241
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 645
+    }
+  ],
+  "ផ្ដល់មតិ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 949
+    }
+  ],
+  "ផ្ដល់យោបល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 648
+    }
+  ],
+  "ផ្ដល់អនុសាសន៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 951
+    }
+  ],
+  "ផ្ដល់ឱកាស": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 644
+    }
+  ],
+  "ផ្ដល់ឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 948
+    }
+  ],
+  "ផ្ដើម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 649
+    }
+  ],
+  "ផ្ដើមជាមួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 652
+    }
+  ],
+  "ផ្ដើមពី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 651
+    }
+  ],
+  "ផ្ដើមសម្រាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 650
+    }
+  ],
+  "ផ្ដោត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 955
+    }
+  ],
+  "ផ្ដោតលើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 956
+    }
+  ],
+  "ផ្ដោតអារម្មណ៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 957
+    }
+  ],
+  "ផ្តល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 470
+    }
+  ],
+  "ផ្តល់កម្រិតខ្ពស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 622
+    }
+  ],
+  "ផ្តល់កាតសន្តិភាព": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 584
+    }
+  ],
+  "ផ្តល់ការកំណត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 565
+    }
+  ],
+  "ផ្តល់ការគាំទ្រ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 512
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 524
+    }
+  ],
+  "ផ្តល់ការគាំទ្រសកម្ម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 556
+    }
+  ],
+  "ផ្តល់ការគិតគូរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 563
+    }
+  ],
+  "ផ្តល់ការងាយស្រួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 546
+    }
+  ],
+  "ផ្តល់ការងាយស្រួលយ៉ាងណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 547
+    }
+  ],
+  "ផ្តល់ការងារចេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 549
+    }
+  ],
+  "ផ្តល់ការងារច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 617
+    }
+  ],
+  "ផ្តល់ការងារអ្នក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 569
+    }
+  ],
+  "ផ្តល់ការងើបឡើង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 597
+    }
+  ],
+  "ផ្តល់ការជូនដំណឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 587
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 607
+    }
+  ],
+  "ផ្តល់ការដឹកនាំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 550
+    }
+  ],
+  "ផ្តល់ការណែនាំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 513
+    }
+  ],
+  "ផ្តល់ការទទួលយក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 520
+    }
+  ],
+  "ផ្តល់ការទទួលស្គាល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 613
+    }
+  ],
+  "ផ្តល់ការទំនុកចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 618
+    }
+  ],
+  "ផ្តល់ការបញ្ចូលចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 557
+    }
+  ],
+  "ផ្តល់ការបន្តការងារ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 611
+    }
+  ],
+  "ផ្តល់ការបម្រុងទុក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 566
+    }
+  ],
+  "ផ្តល់ការបរិបូរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 592
+    }
+  ],
+  "ផ្តល់ការប្រាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 548
+    }
+  ],
+  "ផ្តល់ការផ្តោតអារម្មណ៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 568
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 598
+    }
+  ],
+  "ផ្តល់ការពន្យល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 585
+    }
+  ],
+  "ផ្តល់ការពិគ្រោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 517
+    }
+  ],
+  "ផ្តល់ការពិនិត្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 558
+    }
+  ],
+  "ផ្តល់ការពីរោះបិទ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 571
+    }
+  ],
+  "ផ្តល់ការយល់ព្រម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 545
+    }
+  ],
+  "ផ្តល់ការរាប់បញ្ចូល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 623
+    }
+  ],
+  "ផ្តល់ការរំឭក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 621
+    }
+  ],
+  "ផ្តល់ការលើកទឹកចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 567
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 588
+    }
+  ],
+  "ផ្តល់ការអនុវត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 572
+    }
+  ],
+  "ផ្តល់កំណត់ត្រា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 553
+    }
+  ],
+  "ផ្តល់កំហិត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 575
+    }
+  ],
+  "ផ្តល់ក្តីត្រួតពិនិត្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 599
+    }
+  ],
+  "ផ្តល់ក្តីសង្ឃឹម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 608
+    }
+  ],
+  "ផ្តល់ក្រុមការងារ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 620
+    }
+  ],
+  "ផ្តល់គុណតម្លៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 531
+    }
+  ],
+  "ផ្តល់គោលការណ៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 581
+    }
+  ],
+  "ផ្តល់គោលបំណង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 560
+    }
+  ],
+  "ផ្តល់ចំណាប់អារម្មណ៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 509
+    }
+  ],
+  "ផ្តល់ចំណែក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 615
+    }
+  ],
+  "ផ្តល់ចំត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 582
+    }
+  ],
+  "ផ្តល់ចំលើយគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 614
+    }
+  ],
+  "ផ្តល់ចំអិន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 535
+    }
+  ],
+  "ផ្តល់ចំឱ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 541
+    }
+  ],
+  "ផ្តល់ជាអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 508
+    }
+  ],
+  "ផ្តល់ជំនាញសុខាភិបាល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 602
+    }
+  ],
+  "ផ្តល់ជំនួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 529
+    }
+  ],
+  "ផ្តល់ជំនោរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 530
+    }
+  ],
+  "ផ្តល់តម្លៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 472
+    }
+  ],
+  "ផ្តល់តម្លៃមួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 516
+    }
+  ],
+  "ផ្តល់តួនាទី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 580
+    }
+  ],
+  "ផ្តល់តំលៃត្រឹមត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 596
+    }
+  ],
+  "ផ្តល់ទស្សនៈ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 555
+    }
+  ],
+  "ផ្តល់ទំនុកចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 595
+    }
+  ],
+  "ផ្តល់ទំនុកចិត្តក្នុង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 624
+    }
+  ],
+  "ផ្តល់ទំព័រ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 583
+    }
+  ],
+  "ផ្តល់ទ្រទ្រង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 544
+    }
+  ],
+  "ផ្តល់នូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 511
+    }
+  ],
+  "ផ្តល់នូវគំនិត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 562
+    }
+  ],
+  "ផ្តល់នូវសេចក្តីឆ្លើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 561
+    }
+  ],
+  "ផ្តល់នូវសំណើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 576
+    }
+  ],
+  "ផ្តល់នូវអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 539
+    }
+  ],
+  "ផ្តល់បច្ចេកវិទ្យា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 603
+    }
+  ],
+  "ផ្តល់បញ្ជូនគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 619
+    }
+  ],
+  "ផ្តល់ផ្នែក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 515
+    }
+  ],
+  "ផ្តល់ពណ៌": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 564
+    }
+  ],
+  "ផ្តល់ពេលច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 586
+    }
+  ],
+  "ផ្តល់ពេលវេលាឲ្យគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 570
+    }
+  ],
+  "ផ្តល់ព្យាបាល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 590
+    }
+  ],
+  "ផ្តល់ព្យាបាលអ្នកនឹងជាសមរម្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 616
+    }
+  ],
+  "ផ្តល់ព្រមាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 542
+    }
+  ],
+  "ផ្តល់ព្រមានជាក់ស្តែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 543
+    }
+  ],
+  "ផ្តល់ភាពងាយស្រួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 538
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 606
+    }
+  ],
+  "ផ្តល់ភាពជឿជាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 551
+    }
+  ],
+  "ផ្តល់ភាពជោគជ័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 521
+    }
+  ],
+  "ផ្តល់ភាពត្រឹមត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 573
+    }
+  ],
+  "ផ្តល់ភាពត្រឹមត្រូវចំពោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 591
+    }
+  ],
+  "ផ្តល់ភាពពេញចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 540
+    }
+  ],
+  "ផ្តល់ភាពល្អ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 527
+    }
+  ],
+  "ផ្តល់ភាពល្អឥតខ្ចោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 626
+    }
+  ],
+  "ផ្តល់ភាពសម្រេច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 627
+    }
+  ],
+  "ផ្តល់ភាពសំរាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 537
+    }
+  ],
+  "ផ្តល់ភាពអាចស្រួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 552
+    }
+  ],
+  "ផ្តល់មតិ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 525
+    }
+  ],
+  "ផ្តល់មុខងារចូល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 559
+    }
+  ],
+  "ផ្តល់មេរៀន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 593
+    }
+  ],
+  "ផ្តល់លទ្ធផល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 519
+    }
+  ],
+  "ផ្តល់សិទ្ធិ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 533
+    }
+  ],
+  "ផ្តល់សិទ្ធិចូលរួម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 554
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 578
+    }
+  ],
+  "ផ្តល់សុខភាពនិងសន្តិភាព": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 604
+    }
+  ],
+  "ផ្តល់សូមតំលៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 612
+    }
+  ],
+  "ផ្តល់សេចក្ដីណែនាំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 534
+    }
+  ],
+  "ផ្តល់សេចក្ដីត្រូវបាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 609
+    }
+  ],
+  "ផ្តល់សេចក្ដីពេញចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 536
+    }
+  ],
+  "ផ្តល់សេចក្ដីលំអិត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 625
+    }
+  ],
+  "ផ្តល់សេចក្តីព្រាង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 605
+    }
+  ],
+  "ផ្តល់សេវា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 532
+    }
+  ],
+  "ផ្តល់អត្តន័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 523
+    }
+  ],
+  "ផ្តល់អត្ថន័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 514
+    }
+  ],
+  "ផ្តល់អត្ថន័យច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 594
+    }
+  ],
+  "ផ្តល់អត្ថន័យសំរាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 610
+    }
+  ],
+  "ផ្តល់អធ្យាស្រ័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 528
+    }
+  ],
+  "ផ្តល់អនុសាសន៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 510
+    }
+  ],
+  "ផ្តល់អាការៈ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 579
+    }
+  ],
+  "ផ្តល់អានុភាព": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 600
+    }
+  ],
+  "ផ្តល់អារម្មណ៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 574
+    }
+  ],
+  "ផ្តល់អារម្មណ៍ដល់គ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 589
+    }
+  ],
+  "ផ្តល់អាស្រ័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 526
+    }
+  ],
+  "ផ្តល់អាហារូបករណ៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 601
+    }
+  ],
+  "ផ្តល់អំណោយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 518
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 522
+    }
+  ],
+  "ផ្តល់ឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 471
+    }
+  ],
+  "ផ្តល់ឲ្យនរណាម្នាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 577
+    }
+  ],
+  "ផ្ទាល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 473
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 639
+    }
+  ],
+  "ផ្ទាល់ខ្លួន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 474
+    }
+  ],
+  "ផ្ទាល់ទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 640
+    }
+  ],
+  "ផ្ទុយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 475
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 641
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 958
+    }
+  ],
+  "ផ្ទុយគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 478
+    }
+  ],
+  "ផ្ទុយឆ្ងាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 642
+    }
+  ],
+  "ផ្ទុយនឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 236
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 242
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 477
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 960
+    }
+  ],
+  "ផ្ទុយពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 237
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 243
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 476
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 959
+    }
+  ],
+  "ផ្លាស់ប្ដូរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 490
+    }
+  ],
+  "ផ្លាស់ប្ដូរខ្លួន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 491
+    }
+  ],
+  "ផ្លាស់ប្ដូរចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 500
+    }
+  ],
+  "ផ្លាស់ប្ដូរជាច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 502
+    }
+  ],
+  "ផ្លាស់ប្ដូរជីវិត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 492
+    }
+  ],
+  "ផ្លាស់ប្ដូរតាមពេលវេលា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 499
+    }
+  ],
+  "ផ្លាស់ប្ដូរត្រឹមត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 506
+    }
+  ],
+  "ផ្លាស់ប្ដូរទីតាំង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 494
+    }
+  ],
+  "ផ្លាស់ប្ដូរនិស្ស័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 496
+    }
+  ],
+  "ផ្លាស់ប្ដូរបាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 501
+    }
+  ],
+  "ផ្លាស់ប្ដូរពេលវេលា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 493
+    }
+  ],
+  "ផ្លាស់ប្ដូរយោបល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 495
+    }
+  ],
+  "ផ្លាស់ប្ដូរសម័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 498
+    }
+  ],
+  "ផ្លាស់ប្តូរទំនោរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 497
+    }
+  ],
+  "ផ្សេងទៀត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 238
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 244
+    }
+  ],
+  "ពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 239
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 245
+    }
+  ],
+  "ពីនេះតទៅ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 240
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 246
+    }
+  ],
+  "ពីនេះពីនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 241
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 247
+    }
+  ],
+  "ពីព្រោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 242
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 248
+    }
+  ],
+  "ពីមុន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 243
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 249
+    }
+  ],
+  "ពីរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 244
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 250
+    }
+  ],
+  "ពីលើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 245
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 251
+    }
+  ],
+  "ពុំ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 246
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 252
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 165
+    }
+  ],
+  "ពុំទាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 166
+    }
+  ],
+  "ពុំមាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 167
+    }
+  ],
+  "ពួក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 247
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 253
+    }
+  ],
+  "ពួកគេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 248
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 254
+    }
+  ],
+  "ពេញ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 249
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 255
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 175
+    }
+  ],
+  "ពេញចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 665
+    }
+  ],
+  "ពេញទាំង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 250
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 256
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 176
+    }
+  ],
+  "ពេញមួយថ្ងៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 667
+    }
+  ],
+  "ពេញមួយរយៈ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 666
+    }
+  ],
+  "ពេញលេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 662
+    }
+  ],
+  "ពេញល្បង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 663
+    }
+  ],
+  "ពេញស្រប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 664
+    }
+  ],
+  "ពេល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 251
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 257
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 168
+    }
+  ],
+  "ពេលដែល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 252
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 258
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 173
+    }
+  ],
+  "ពេលដែលកន្លង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 697
+    }
+  ],
+  "ពេលដែលឆាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 703
+    }
+  ],
+  "ពេលដែលត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 699
+    }
+  ],
+  "ពេលដែលបន្ដិច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 706
+    }
+  ],
+  "ពេលដែលមាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 696
+    }
+  ],
+  "ពេលដែលមិនទាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 702
+    }
+  ],
+  "ពេលដែលអាច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 698
+    }
+  ],
+  "ពេលណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 169
+    }
+  ],
+  "ពេលណាក៏បាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 689
+    }
+  ],
+  "ពេលណានោះហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 692
+    }
+  ],
+  "ពេលណាមិញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 170
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 705
+    }
+  ],
+  "ពេលណាមិញទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 690
+    }
+  ],
+  "ពេលណាមិនទាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 691
+    }
+  ],
+  "ពេលណាមួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 693
+    }
+  ],
+  "ពេលណាមួយក៏បាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 704
+    }
+  ],
+  "ពេលនេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 172
+    }
+  ],
+  "ពេលនេះហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 694
+    }
+  ],
+  "ពេលនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 253
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 259
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 171
+    }
+  ],
+  "ពេលនោះហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 707
+    }
+  ],
+  "ពេលវេលាខ្លះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 701
+    }
+  ],
+  "ពេលវេលាច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 700
+    }
+  ],
+  "ពេលវេលាដែល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 695
+    }
+  ],
+  "ពេលវេលាប៉ុណ្ណោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 708
+    }
+  ],
+  "ពោល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 668
+    }
+  ],
+  "ពោលគឺ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 254
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 260
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 174
+    }
+  ],
+  "ពោលទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 669
+    }
+  ],
+  "ពោលវាចេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 670
+    }
+  ],
+  "ពោលឱ្យនគរវា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 671
+    }
+  ],
+  "ព្យាបាទ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 637
+    }
+  ],
+  "ព្យាបាទច្រើនណាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 638
+    }
+  ],
+  "ព្យាយាម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 634
+    }
+  ],
+  "ព្យាយាមតែប៉ុណ្ណោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 635
+    }
+  ],
+  "ព្យាយាមយ៉ាងខ្លាំង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 636
+    }
+  ],
+  "ព្រម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 675
+    }
+  ],
+  "ព្រមទទួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 679
+    }
+  ],
+  "ព្រមទាំង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 676
+    }
+  ],
+  "ព្រមប្រគល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 680
+    }
+  ],
+  "ព្រមសន្មត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 678
+    }
+  ],
+  "ព្រមហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 677
+    }
+  ],
+  "ព្រលែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 674
+    }
+  ],
+  "ព្រាត់ចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 673
+    }
+  ],
+  "ព្រាត់ព្រៀង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 672
+    }
+  ],
+  "ព្រួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 681
+    }
+  ],
+  "ព្រួយចិត្ត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 682
+    }
+  ],
+  "ព្រោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 255
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 261
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 177
+    }
+  ],
+  "ព្រោះតែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 256
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 262
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 178
+    }
+  ],
+  "ព្រោះតែវា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 686
+    }
+  ],
+  "ព្រោះតែអ៊ីចឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 684
+    }
+  ],
+  "ព្រោះថា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 685
+    }
+  ],
+  "ព្រោះថាអ្នក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 688
+    }
+  ],
+  "ព្រោះមិនទាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 687
+    }
+  ],
+  "ព្រោះហេតុនេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 179
+    }
+  ],
+  "ព្រោះអញ្ចឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 683
+    }
+  ],
+  "ភាគខ្លះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 660
+    }
+  ],
+  "ភាគច្រើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 653
+    }
+  ],
+  "ភាគណា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 656
+    }
+  ],
+  "ភាគតិច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 654
+    }
+  ],
+  "ភាគតិចណាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 655
+    }
+  ],
+  "ភាគត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 661
+    }
+  ],
+  "ភាគបន្ថែម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 657
+    }
+  ],
+  "ភាគពេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 659
+    }
+  ],
+  "ភាគរយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 658
+    }
+  ],
+  "ភាព": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 257
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 263
+    }
+  ],
+  "ភ្លឺ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 632
+    }
+  ],
+  "ភ្លើង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 628
+    }
+  ],
+  "ភ្លេច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 479
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 961
+    }
+  ],
+  "ភ្លេចឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 963
+    }
+  ],
+  "ភ្លេចចង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 969
+    }
+  ],
+  "ភ្លេចឆ្លើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 483
+    }
+  ],
+  "ភ្លេចឈ្មោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 967
+    }
+  ],
+  "ភ្លេចដល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 485
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 971
+    }
+  ],
+  "ភ្លេចណាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 505
+    }
+  ],
+  "ភ្លេចតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 630
+    }
+  ],
+  "ភ្លេចត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 970
+    }
+  ],
+  "ភ្លេចទៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 487
+    }
+  ],
+  "ភ្លេចទៅតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 631
+    }
+  ],
+  "ភ្លេចទៅវិញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 633
+    }
+  ],
+  "ភ្លេចនិយាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 973
+    }
+  ],
+  "ភ្លេចបញ្ជាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 486
+    }
+  ],
+  "ភ្លេចប្រាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 481
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 964
+    }
+  ],
+  "ភ្លេចមិនបាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 962
+    }
+  ],
+  "ភ្លេចមើល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 482
+    }
+  ],
+  "ភ្លេចយក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 484
+    }
+  ],
+  "ភ្លេចសុំព្យាបាល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 968
+    }
+  ],
+  "ភ្លេចសូម្បីតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 966
+    }
+  ],
+  "ភ្លេចសំខាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 972
+    }
+  ],
+  "ភ្លេចស្នាម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 965
+    }
+  ],
+  "ភ្លេចស្រឡាញ់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 507
+    }
+  ],
+  "ភ្លេចហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 480
+    }
+  ],
+  "ភ្លេចហើយឯង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 504
+    }
+  ],
+  "ភ្លេចអស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 503
+    }
+  ],
+  "ភ្លេចអ្វី": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 629
+    }
+  ],
+  "មក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 258
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 264
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 180
+    }
+  ],
+  "មកកាន់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 259
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 265
+    }
+  ],
+  "មកដល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 182
+    }
+  ],
+  "មកពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 260
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 266
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 181
+    }
+  ],
+  "មាន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 262
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 268
+    }
+  ],
+  "មិន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 183
+    }
+  ],
+  "មិនខុស": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 982
+    }
+  ],
+  "មិនគិត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 993
+    }
+  ],
+  "មិនគួរមើល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1024
+    }
+  ],
+  "មិនឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 711
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 991
+    }
+  ],
+  "មិនឃើញខុសគ្នា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 731
+    }
+  ],
+  "មិនឃើញស្រួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 713
+    }
+  ],
+  "មិនងាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1005
+    }
+  ],
+  "មិនងាយស្រួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1017
+    }
+  ],
+  "មិនចង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 984
+    }
+  ],
+  "មិនចាំបាច់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 721
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1000
+    }
+  ],
+  "មិនចេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 989
+    }
+  ],
+  "មិនចេះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1025
+    }
+  ],
+  "មិនច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 999
+    }
+  ],
+  "មិនជាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1035
+    }
+  ],
+  "មិនជឿ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1010
+    }
+  ],
+  "មិនដឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 997
+    }
+  ],
+  "មិនដែល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 263
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 269
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 188
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 976
+    }
+  ],
+  "មិនត្រឹមតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 720
+    }
+  ],
+  "មិនត្រឹមត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 986
+    }
+  ],
+  "មិនត្រូវ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 264
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 270
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 185
+    }
+  ],
+  "មិនត្រូវការ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1001
+    }
+  ],
+  "មិនត្រូវនិយាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1023
+    }
+  ],
+  "មិនត្រូវប្រាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1037
+    }
+  ],
+  "មិនទទួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1029
+    }
+  ],
+  "មិនទាក់ទង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 996
+    }
+  ],
+  "មិនទាក់ទាញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1040
+    }
+  ],
+  "មិនទាន់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 265
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 271
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 186
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 974
+    }
+  ],
+  "មិនទាន់ឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1015
+    }
+  ],
+  "មិនទាន់ចប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1013
+    }
+  ],
+  "មិនទាន់ច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 983
+    }
+  ],
+  "មិនទាន់ដឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1014
+    }
+  ],
+  "មិនទាន់ត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 727
+    }
+  ],
+  "មិនទាន់បាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 729
+    }
+  ],
+  "មិនទាន់បានទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 734
+    }
+  ],
+  "មិនទាន់ល្អ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1018
+    }
+  ],
+  "មិនទាន់អាច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 714
+    }
+  ],
+  "មិនទៀង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 266
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 272
+    }
+  ],
+  "មិនទំនេរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 980
+    }
+  ],
+  "មិនបង្ហាញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1033
+    }
+  ],
+  "មិនបង្ហើប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1038
+    }
+  ],
+  "មិនបញ្ចប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 988
+    }
+  ],
+  "មិនបញ្ចូល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1031
+    }
+  ],
+  "មិនបន្ថែម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1012
+    }
+  ],
+  "មិនបាច់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 709
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 978
+    }
+  ],
+  "មិនបាច់ខ្លាំង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 724
+    }
+  ],
+  "មិនបាច់ឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 732
+    }
+  ],
+  "មិនបាច់ទាំងអស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 719
+    }
+  ],
+  "មិនបាច់បន្ថែម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 726
+    }
+  ],
+  "មិនបាច់ព្រួយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1022
+    }
+  ],
+  "មិនបាត់បង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 994
+    }
+  ],
+  "មិនបាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 710
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1019
+    }
+  ],
+  "មិនបានចេញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 723
+    }
+  ],
+  "មិនបានច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1020
+    }
+  ],
+  "មិនបានជឿ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 730
+    }
+  ],
+  "មិនបានត្រឹមតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 735
+    }
+  ],
+  "មិនបានទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 712
+    }
+  ],
+  "មិនបាននិយាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 715
+    }
+  ],
+  "មិនបាននិយាយតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 718
+    }
+  ],
+  "មិនបានព្យាយាម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 728
+    }
+  ],
+  "មិនបានលើកឡើង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 717
+    }
+  ],
+  "មិនបានស្រួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 733
+    }
+  ],
+  "មិនព្រម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 267
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 273
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 979
+    }
+  ],
+  "មិនព្រមទទួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 716
+    }
+  ],
+  "មិនព្រមទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 722
+    }
+  ],
+  "មិនមាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 189
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 977
+    }
+  ],
+  "មិនមើលឃើញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1027
+    }
+  ],
+  "មិនមែន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 268
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 274
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 187
+    }
+  ],
+  "មិនមែនទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 998
+    }
+  ],
+  "មិនលើកលែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1011
+    }
+  ],
+  "មិនសង្កេត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1032
+    }
+  ],
+  "មិនសប្បាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1009
+    }
+  ],
+  "មិនសម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 985
+    }
+  ],
+  "មិនសមរម្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1028
+    }
+  ],
+  "មិនសម្ដែង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1007
+    }
+  ],
+  "មិនសូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 981
+    }
+  ],
+  "មិនសូវនិយាយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1034
+    }
+  ],
+  "មិនសូវបាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 990
+    }
+  ],
+  "មិនសំខាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 987
+    }
+  ],
+  "មិនស្ថិតស្ថេរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1006
+    }
+  ],
+  "មិនស្រប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1004
+    }
+  ],
+  "មិនស្រលាញ់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1026
+    }
+  ],
+  "មិនស្រួល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1003
+    }
+  ],
+  "មិនស្អាត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1008
+    }
+  ],
+  "មិនស្អិត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 992
+    }
+  ],
+  "មិនស្អិតជាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 995
+    }
+  ],
+  "មិនអនុញ្ញាត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1030
+    }
+  ],
+  "មិនអស់សំណើច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1039
+    }
+  ],
+  "មិនអាច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 269
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 275
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 184
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 975
+    }
+  ],
+  "មិនអាចច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 725
+    }
+  ],
+  "មិនអីទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1021
+    }
+  ],
+  "មិនអើពើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1016
+    }
+  ],
+  "មិនឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1002
+    }
+  ],
+  "មិនឲ្យសង្ឃឹម": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 1036
+    }
+  ],
+  "មូល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 270
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 276
+    }
+  ],
+  "មូលហេតុ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 271
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 277
+    }
+  ],
+  "មួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 272
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 278
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 192
+    }
+  ],
+  "មួយចំនួន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 273
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 279
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 194
+    }
+  ],
+  "មួយឆ្នាំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 197
+    }
+  ],
+  "មួយណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 274
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 280
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 193
+    }
+  ],
+  "មួយថ្ងៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 196
+    }
+  ],
+  "មួយទៀត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 275
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 281
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 195
+    }
+  ],
+  "មួយភ្លែត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 198
+    }
+  ],
+  "មែន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 276
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 282
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 201
+    }
+  ],
+  "មែនទេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 202
+    }
+  ],
+  "មែនទែន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 277
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 283
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 203
+    }
+  ],
+  "ម៉េច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 261
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 267
+    }
+  ],
+  "ម្ដង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 278
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 284
+    }
+  ],
+  "ម្នាក់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 279
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 285
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 190
+    }
+  ],
+  "ម្នាក់ឯង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 191
+    }
+  ],
+  "ម្នាក់ៗ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 280
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 286
+    }
+  ],
+  "ម្ភៃ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 281
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 287
+    }
+  ],
+  "ម្យ៉ាង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 199
+    }
+  ],
+  "ម្យ៉ាងទៀត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 282
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 288
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 200
+    }
+  ],
+  "ម្ល៉េះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 283
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 289
+    }
+  ],
+  "យក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 284
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 290
+    }
+  ],
+  "យកចេញ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 285
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 291
+    }
+  ],
+  "យល់ស្រប": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 286
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 292
+    }
+  ],
+  "យើង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 295
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 301
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 210
+    }
+  ],
+  "យើងខ្ញុំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 212
+    }
+  ],
+  "យើងទាំងអស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 211
+    }
+  ],
+  "យ៉ាង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 287
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 293
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 204
+    }
+  ],
+  "យ៉ាងខ្លាំង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 208
+    }
+  ],
+  "យ៉ាងច្រើន": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 288
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 294
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 209
+    }
+  ],
+  "យ៉ាងណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 289
+    },
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 290
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 295
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 296
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 205
+    }
+  ],
+  "យ៉ាងណាក៏ដោយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 206
+    }
+  ],
+  "យ៉ាងណាក្តី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 292
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 298
+    }
+  ],
+  "យ៉ាងណាមិញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 207
+    }
+  ],
+  "យ៉ាងនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 293
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 299
+    }
+  ],
+  "យ៉ាងនោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 294
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 300
+    }
+  ],
+  "រក្សា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 297
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 303
+    }
+  ],
+  "រញៀវ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 298
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 304
+    }
+  ],
+  "របស់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 300
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 306
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 252
+    }
+  ],
+  "របស់ខ្ញុំ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 301
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 307
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 253
+    }
+  ],
+  "របស់គាត់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 302
+    },
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 303
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 308
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 309
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 254
+    }
+  ],
+  "របស់គេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 304
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 310
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 255
+    }
+  ],
+  "របស់នាង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 305
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 311
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 256
+    }
+  ],
+  "របស់ពួកគេ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 258
+    }
+  ],
+  "របស់លោក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 306
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 312
+    }
+  ],
+  "របស់វា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 307
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 313
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 257
+    }
+  ],
+  "រយះពេល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 308
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 314
+    }
+  ],
+  "រយៈ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 309
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 315
+    }
+  ],
+  "រយៈនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 310
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 316
+    }
+  ],
+  "រយៈពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 259
+    }
+  ],
+  "រវាង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 311
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 317
+    }
+  ],
+  "រហូត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 260
+    }
+  ],
+  "រហូតដល់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 312
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 318
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 261
+    }
+  ],
+  "រហូតទៅដល់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 262
+    }
+  ],
+  "រាល់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 313
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 319
+    }
+  ],
+  "រឺ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 314
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 320
+    }
+  ],
+  "រឺក៏": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 315
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 321
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 263
+    }
+  ],
+  "រួច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 264
+    }
+  ],
+  "រួចហើយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 316
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 322
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 265
+    }
+  ],
+  "រួម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 317
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 323
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 266
+    }
+  ],
+  "រួមទាំង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 318
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 324
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 267
+    }
+  ],
+  "លើ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 319
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 325
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 213
+    }
+  ],
+  "លើក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 320
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 326
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 214
+    }
+  ],
+  "លើកលែង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 321
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 327
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 215
+    }
+  ],
+  "លើស": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 322
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 328
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 216
+    }
+  ],
+  "លេខមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 323
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 329
+    }
+  ],
+  "លែង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 324
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 330
+    }
+  ],
+  "លោក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 325
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 331
+    }
+  ],
+  "លំអិត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 327
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 333
+    }
+  ],
+  "ល្អ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 326
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 332
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 217
+    }
+  ],
+  "ល្អណាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 218
+    }
+  ],
+  "ល្អបំផុត": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 219
+    }
+  ],
+  "ល្អឥតខ្ចោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 220
+    }
+  ],
+  "វា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 5
+    },
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 328
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 16
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 334
+    }
+  ],
+  "វិញ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 329
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 335
+    }
+  ],
+  "វែង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 330
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 336
+    }
+  ],
+  "សន្មត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 274
+    }
+  ],
+  "សព្វ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 331
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 337
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 268
+    }
+  ],
+  "សព្វថ្ងៃ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 270
+    }
+  ],
+  "សព្វពេល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 269
+    }
+  ],
+  "សម្រាប់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 332
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 338
+    }
+  ],
+  "សរុប": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 333
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 339
+    }
+  ],
+  "សុទ្ធតែ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 275
+    }
+  ],
+  "សូមច្បាស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 737
+    }
+  ],
+  "សូមជូន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 743
+    }
+  ],
+  "សូមជ្រាប": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 748
+    }
+  ],
+  "សូមទន្ទឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 739
+    }
+  ],
+  "សូមទោស": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 736
+    }
+  ],
+  "សូមធ្វើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 746
+    }
+  ],
+  "សូមបញ្ជាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 741
+    }
+  ],
+  "សូមប្រាប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 740
+    }
+  ],
+  "សូមពិនិត្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 747
+    }
+  ],
+  "សូមព្យាបាល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 749
+    }
+  ],
+  "សូមរង់ចាំ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 744
+    }
+  ],
+  "សូមស្វាគមន៍": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 745
+    }
+  ],
+  "សូមអធ្យាស្រ័យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 738
+    }
+  ],
+  "សូមឲ្យ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 742
+    }
+  ],
+  "សូម្បីតែ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 334
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 340
+    }
+  ],
+  "សេចក្ដី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 335
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 341
+    }
+  ],
+  "សោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 336
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 342
+    }
+  ],
+  "សំខាន់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 342
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 348
+    }
+  ],
+  "សំរាប់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 343
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 349
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 271
+    }
+  ],
+  "សំរាប់អ្នក": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 272
+    }
+  ],
+  "សំរេច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 344
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 350
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 273
+    }
+  ],
+  "ស្ងៀម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 337
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 343
+    }
+  ],
+  "ស្ទើរ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 338
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 344
+    }
+  ],
+  "ស្នើ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 276
+    }
+  ],
+  "ស្មើរគ្នា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 339
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 345
+    }
+  ],
+  "ស្មោះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 340
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 346
+    }
+  ],
+  "ស្វែងរក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 341
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 347
+    }
+  ],
+  "ហត់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 277
+    }
+  ],
+  "ហាក់ដូចជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 752
+    }
+  ],
+  "ហាក់ទំនេរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 763
+    }
+  ],
+  "ហាក់នៅ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 761
+    }
+  ],
+  "ហាក់បង្កប់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 757
+    }
+  ],
+  "ហាក់បង្កើន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 755
+    }
+  ],
+  "ហាក់បង្ហាញ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 756
+    }
+  ],
+  "ហាក់បាក់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 760
+    }
+  ],
+  "ហាក់បីដូចជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 750
+    }
+  ],
+  "ហាក់បីដូចទៅនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 753
+    }
+  ],
+  "ហាក់បីដូចម្តេច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 751
+    }
+  ],
+  "ហាក់បែបនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 758
+    }
+  ],
+  "ហាក់មាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 754
+    }
+  ],
+  "ហាក់មានសារសំខាន់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 759
+    }
+  ],
+  "ហាក់សើច": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 762
+    }
+  ],
+  "ហាម": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 345
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 351
+    }
+  ],
+  "ហាសិប": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 346
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 352
+    }
+  ],
+  "ហុកសិប": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 347
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 353
+    }
+  ],
+  "ហើយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 348
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 354
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 221
+    }
+  ],
+  "ហើយត្រូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 278
+    }
+  ],
+  "ហើយនឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 349
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 355
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 222
+    }
+  ],
+  "ហេតុនេះហើយ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 224
+    }
+  ],
+  "ហេតុនោះ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 225
+    }
+  ],
+  "ហេតុផល": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 350
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 356
+    }
+  ],
+  "ហេតុអ្វី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 351
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 357
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 223
+    }
+  ],
+  "ហៅ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 352
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 358
+    }
+  ],
+  "ហ៊ាន": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 279
+    }
+  ],
+  "ឡើង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 353
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 359
+    }
+  ],
+  "ឡើយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 354
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 360
+    }
+  ],
+  "អង្កាល់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 358
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 364
+    }
+  ],
+  "អញ្ចឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 359
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 365
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 241
+    }
+  ],
+  "អតីត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 363
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 369
+    }
+  ],
+  "អស់": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 365
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 371
+    }
+  ],
+  "អាច": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 368
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 374
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 238
+    }
+  ],
+  "អាចជា": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 239
+    }
+  ],
+  "អាចនឹង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 240
+    }
+  ],
+  "អី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 369
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 375
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 248
+    }
+  ],
+  "អោយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 370
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 376
+    }
+  ],
+  "អំពី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 378
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 384
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 237
+    }
+  ],
+  "អ៊ីចឹង": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 367
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 373
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 242
+    }
+  ],
+  "អ្នក": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 371
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 377
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 249
+    }
+  ],
+  "អ្នកក្រោយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 372
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 378
+    }
+  ],
+  "អ្នកណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 373
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 379
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 250
+    }
+  ],
+  "អ្នកទាំងអស់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 251
+    }
+  ],
+  "អ្វី": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 375
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 381
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 243
+    }
+  ],
+  "អ្វីខ្លះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 376
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 382
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 246
+    }
+  ],
+  "អ្វីដែល": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 245
+    }
+  ],
+  "អ្វីមួយ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 377
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 383
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 247
+    }
+  ],
+  "អ្វីៗ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 244
+    }
+  ],
+  "ឥត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 361
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 367
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 230
+    }
+  ],
+  "ឥតឈប់ឈរ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 232
+    }
+  ],
+  "ឥតទៅណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 362
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 368
+    }
+  ],
+  "ឥតបង់": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 231
+    }
+  ],
+  "ឥឡូវ": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 233
+    }
+  ],
+  "ឥឡូវនេះ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 366
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 372
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 234
+    }
+  ],
+  "ឬ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 296
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 302
+    }
+  ],
+  "ឬទេ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 299
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 305
+    }
+  ],
+  "ឯ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 355
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 361
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 226
+    }
+  ],
+  "ឯការ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 356
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 362
+    }
+  ],
+  "ឯកោ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 357
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 363
+    }
+  ],
+  "ឯង": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 229
+    }
+  ],
+  "ឯណា": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 360
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 366
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 227
+    }
+  ],
+  "ឯទៀត": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 364
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 370
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 228
+    }
+  ],
+  "ឱកាស": [
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 235
+    }
+  ],
+  "ឱ្យ": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 374
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 380
+    },
+    {
+      "source": "Khmer-Stop-Word-1000.csv",
+      "record": 236
+    }
+  ],
+  "។ល។": [
+    {
+      "source": "khmer stopwords-corpus-1.csv",
+      "record": 379
+    },
+    {
+      "source": "khmer stopwords-corpus-385.csv",
+      "record": 385
+    }
+  ]
+}

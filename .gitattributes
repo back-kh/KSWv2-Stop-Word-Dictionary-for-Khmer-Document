@@ -1,0 +1,12 @@
+# Preserve raw CSVs (including their original line endings) for the audit.
+*.csv -text
+*.txt text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+# These attribution files are copied byte-for-byte from their pinned source.
+data/vocabulary/*LICENSE.txt -text
+data/vocabulary/UPSTREAM-DICTIONARY-NOTICE.txt -text
+# Upstream MIT notice also retains its original CRLF and blank boundary lines.
+data/vocabulary/LEGACY-MIT-LICENSE.txt whitespace=cr-at-eol,-blank-at-eof

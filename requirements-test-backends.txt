@@ -1,0 +1,3 @@
+# Optional integration-test environment only; no core dependencies.
+khmercut==0.2.0
+khmer-nltk==1.6
